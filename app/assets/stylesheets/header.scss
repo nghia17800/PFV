@@ -1,0 +1,17 @@
+@import "bootstrap-sprockets";
+@import "bootstrap";
+
+.header-pfv {
+  height: 64px;
+  background-color: #FFFFFF;
+  box-shadow: 10px 10px 5px rgb(116, 115, 115);
+}
+.logo {
+  margin-top: 18px;
+  margin-left: 35px;
+}
+#logo-text {
+  font-size: 20px;
+  font-weight: bold;
+  color: #0056D2;
+}
